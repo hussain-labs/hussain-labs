@@ -18,14 +18,6 @@
 
 ---
 
-<h2 align="center"> 🕹️ 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚂 🕹️ </h2>
-
-<p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <h2 align="center"> 🐍 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴 </h2>
 
 <p align="center">
