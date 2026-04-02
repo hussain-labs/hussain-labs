@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=HELLO+I+AM+MUZAMIL+HUSSAIN;HUSSAIN-LABS+DETECTED...;INITIALIZING+STACK..." />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=HELLO+I+AM+MUZAMIL+HUSSAIN;hussain-labs+DETECTED...;INITIALIZING+STACK..." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
