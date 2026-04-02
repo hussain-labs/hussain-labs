@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MUZAMIL+HUSSAIN"/>
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MUZAMIL HUSSAIN" />
+</h1>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-labs&theme=tokyonight&hide_border=true" alt="hussain-labs streak" />
