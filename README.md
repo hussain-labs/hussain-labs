@@ -6,8 +6,6 @@
 
 ---
 
-<h1 align="center"> ⚡ 𝙼𝚈 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 ⚡ </h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -17,8 +15,6 @@
 </p>
 
 ---
-
-<h2 align="center"> 🐍 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴 </h2>
 
 <p align="center">
   <picture>
