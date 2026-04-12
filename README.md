@@ -78,8 +78,6 @@
 
 <p align="center">
   ᴏɴᴇ ᴄᴏᴍᴍɪᴛ ᴀᴛ ᴀ ᴛɪᴍᴇ
+  <img src="https://komarev.com/ghpvc/?username=hussain-labs&label=PROFILE+VIEWS&color=4AF626&style=flat-square" align="right" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hussain-labs&label=PROFILE+VIEWS&color=4AF626&style=flat-square" alt="hussain-labs" />
-</p>
