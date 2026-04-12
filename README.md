@@ -10,19 +10,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=radical&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=default&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api?username=hussain-labs&show_icons=true&theme=radical" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-labs&layout=compact&theme=radical&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-labs&layout=compact&theme=default&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-labs&layout=compact&theme=radical" />
-  </picture>
-</p>
-
 ---
 
 <h3 align="center">Tech Stack & Skills</h3>
