@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=radical&">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=radical&timezone=Asia/Karachi">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=default&timezone=Asia/Karachi">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamilhussain-dev&theme=tokyonight&timezone=Asia/Karachi" alt="GitHub Streak">
   </picture>
 </p>
